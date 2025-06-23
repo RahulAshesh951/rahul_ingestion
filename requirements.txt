@@ -1,0 +1,8 @@
+tqdm
+python-magic
+ultralytics
+pdf2image
+pillow
+matplotlib
+opencv-python
+gdown
